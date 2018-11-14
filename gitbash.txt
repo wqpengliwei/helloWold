@@ -1,6 +1,6 @@
 fist line 1114
 learn branc
-1/master dev
+1/master dev   / change in github
 2/branch1 already create
 3/now update msg in master
 3/1 stashed and change in master
