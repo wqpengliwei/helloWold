@@ -1,9 +1,10 @@
 fist line 1114
 learn branc
 1/master dev   / change in github
-2/branch1 already create
+2/branch1 already create / modify in local
 3/now update msg in master
 3/1 stashed and change in master
 4/master dev again but not finish  /  change in git bash
 5/merge sth and delete >>>>>， finish master
 6/liaoxuefeng dev create branch
+7/modify in local 
