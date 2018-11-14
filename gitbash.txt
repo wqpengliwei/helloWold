@@ -6,3 +6,4 @@ learn branc
 3/1 stashed and change in master
 4/master dev again but not finish  /  change in git bash
 5/merge sth and delete >>>>>， finish master
+6/liaoxuefeng dev create branch
